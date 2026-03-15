@@ -6227,6 +6227,15 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/17708662942",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 13,
+      "name": "Zwift - TrainerRoad: Brasstown",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17722988456",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12021,6 +12030,15 @@
           "distance": 37073.9,
           "elevation_gain": 59.0,
           "moving_time": 3627.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17722988456"
+          ],
+          "count": 1,
+          "distance": 55464.0,
+          "elevation_gain": 272.0,
+          "moving_time": 5462.0
         }
       },
       "VirtualRun": {
@@ -12063,7 +12081,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:28:12.354948+00:00",
+  "generated_at": "2026-03-15T15:29:05.576333+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

@@ -8994,5 +8994,18 @@
     "start_date_local": "2026-03-13T10:32:11Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 55464.0,
+    "elevation_gain": 272.0,
+    "id": "17722988456",
+    "moving_time": 5462.0,
+    "name": "Zwift - TrainerRoad: Brasstown",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T13:06:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
