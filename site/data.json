@@ -6245,6 +6245,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17760994010",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 17,
+      "name": "Zwift - TrainerRoad: Echo -5",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17772953163",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12057,6 +12066,15 @@
           "distance": 36846.0,
           "elevation_gain": 172.0,
           "moving_time": 3642.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17772953163"
+          ],
+          "count": 1,
+          "distance": 37928.3,
+          "elevation_gain": 59.0,
+          "moving_time": 3630.0
         }
       },
       "VirtualRun": {
@@ -12099,7 +12117,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T16:08:03.745343+00:00",
+  "generated_at": "2026-03-19T00:33:52.449894+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
