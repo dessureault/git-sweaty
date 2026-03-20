@@ -9033,5 +9033,18 @@
     "start_date_local": "2026-03-18T17:59:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 36286.0,
+    "elevation_gain": 57.0,
+    "id": "17785040097",
+    "moving_time": 3623.0,
+    "name": "Zwift - TrainerRoad: Thomas",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-19T17:41:22Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
