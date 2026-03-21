@@ -9046,5 +9046,18 @@
     "start_date_local": "2026-03-19T17:41:22Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 5045.3,
+    "elevation_gain": 0.0,
+    "id": "17793686951",
+    "moving_time": 1748.0,
+    "name": "Zwift - Glyph Heights in Watopia",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-03-20T13:07:27Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
