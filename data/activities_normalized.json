@@ -9059,5 +9059,31 @@
     "start_date_local": "2026-03-20T13:07:27Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 57301.7,
+    "elevation_gain": 273.0,
+    "id": "17807154816",
+    "moving_time": 5432.0,
+    "name": "OverUnder While Drops Farming",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-21T13:15:45Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 55471.9,
+    "elevation_gain": 272.0,
+    "id": "17816595873",
+    "moving_time": 5454.0,
+    "name": "Bon matin sur le volcan",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T08:28:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -6272,6 +6272,24 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/17793686951",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 13,
+      "name": "OverUnder While Drops Farming",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17807154816",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 8,
+      "name": "Bon matin sur le volcan",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17816595873",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12102,6 +12120,24 @@
           "distance": 36286.0,
           "elevation_gain": 57.0,
           "moving_time": 3623.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17807154816"
+          ],
+          "count": 1,
+          "distance": 57301.7,
+          "elevation_gain": 273.0,
+          "moving_time": 5432.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17816595873"
+          ],
+          "count": 1,
+          "distance": 55471.9,
+          "elevation_gain": 272.0,
+          "moving_time": 5454.0
         }
       },
       "VirtualRun": {
@@ -12153,7 +12189,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:26:16.860250+00:00",
+  "generated_at": "2026-03-22T15:26:38.783591+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
