@@ -6290,6 +6290,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17816595873",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 16,
+      "name": "Entra\u00eenement aux poids dans l'apr\u00e8s-midi",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17821520261",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12186,10 +12195,21 @@
           "elevation_gain": 0.0,
           "moving_time": 1748.0
         }
+      },
+      "WeightTraining": {
+        "2026-03-22": {
+          "activity_ids": [
+            "17821520261"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2383.0
+        }
       }
     }
   },
-  "generated_at": "2026-03-22T15:26:38.783591+00:00",
+  "generated_at": "2026-03-23T16:00:01.290521+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
@@ -12248,6 +12268,10 @@
       "accent": "#d6ff6b",
       "label": "Walk"
     },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
+    },
     "Workout": {
       "accent": "#ff8a5b",
       "label": "Other Workout"
@@ -12267,6 +12291,7 @@
     "VirtualRide",
     "VirtualRun",
     "Walk",
+    "WeightTraining",
     "Workout"
   ],
   "units": {
