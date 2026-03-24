@@ -9098,5 +9098,18 @@
     "start_date_local": "2026-03-22T16:15:37Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 28302.9,
+    "elevation_gain": 141.0,
+    "id": "17831985408",
+    "moving_time": 2753.0,
+    "name": "Post leg day",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-23T15:06:03Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

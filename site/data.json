@@ -6299,6 +6299,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17821520261",
       "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 15,
+      "name": "Post leg day",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17831985408",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12147,6 +12156,15 @@
           "distance": 55471.9,
           "elevation_gain": 272.0,
           "moving_time": 5454.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17831985408"
+          ],
+          "count": 1,
+          "distance": 28302.9,
+          "elevation_gain": 141.0,
+          "moving_time": 2753.0
         }
       },
       "VirtualRun": {
@@ -12209,7 +12227,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T16:00:01.290521+00:00",
+  "generated_at": "2026-03-24T16:06:43.800476+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
