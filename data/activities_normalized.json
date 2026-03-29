@@ -9111,5 +9111,18 @@
     "start_date_local": "2026-03-23T15:06:03Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 56238.5,
+    "elevation_gain": 282.0,
+    "id": "17893278355",
+    "moving_time": 5420.0,
+    "name": "\u00c0 reculons",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-28T15:22:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
