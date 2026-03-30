@@ -9124,5 +9124,18 @@
     "start_date_local": "2026-03-28T15:22:05Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 52597.6,
+    "elevation_gain": 263.0,
+    "id": "17905871372",
+    "moving_time": 5094.0,
+    "name": "Double Espresso & Banana Bread",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-29T14:52:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
