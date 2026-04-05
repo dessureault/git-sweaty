@@ -9137,5 +9137,18 @@
     "start_date_local": "2026-03-29T14:52:02Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 57027.5,
+    "elevation_gain": 283.0,
+    "id": "17978504511",
+    "moving_time": 5437.0,
+    "name": "Zwift - TrainerRoad: Fang Mountain +2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-04T12:11:57Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
