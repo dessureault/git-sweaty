@@ -6335,6 +6335,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17978504511",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 10,
+      "name": "Un pacer et un sprint",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17989377584",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 14,
+      "name": "5 mimosas 5km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17991594111",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 7,
+      "name": "Zwift - Four Horsemen in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18001404544",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11909,6 +11936,17 @@
       }
     },
     "2026": {
+      "Run": {
+        "2026-04-05": {
+          "activity_ids": [
+            "17991594111"
+          ],
+          "count": 1,
+          "distance": 5414.3,
+          "elevation_gain": 33.0,
+          "moving_time": 1753.0
+        }
+      },
       "TrailRun": {
         "2026-01-10": {
           "activity_ids": [
@@ -12219,6 +12257,24 @@
           "distance": 57027.5,
           "elevation_gain": 283.0,
           "moving_time": 5437.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17989377584"
+          ],
+          "count": 1,
+          "distance": 51535.5,
+          "elevation_gain": 205.0,
+          "moving_time": 4867.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18001404544"
+          ],
+          "count": 1,
+          "distance": 89520.3,
+          "elevation_gain": 2109.0,
+          "moving_time": 12162.0
         }
       },
       "VirtualRun": {
@@ -12281,7 +12337,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:32:44.724275+00:00",
+  "generated_at": "2026-04-06T15:46:26.460516+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
