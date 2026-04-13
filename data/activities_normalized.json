@@ -9202,5 +9202,31 @@
     "start_date_local": "2026-04-11T14:02:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 37381.7,
+    "elevation_gain": 184.0,
+    "id": "18083361737",
+    "moving_time": 3650.0,
+    "name": "pr\u00e9 10k avec \u00c9miliooo",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T12:47:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 11019.3,
+    "elevation_gain": 35.0,
+    "id": "18084305534",
+    "moving_time": 3725.0,
+    "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T14:23:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
