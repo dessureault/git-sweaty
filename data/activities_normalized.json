@@ -9228,5 +9228,18 @@
     "start_date_local": "2026-04-12T14:23:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 36675.1,
+    "elevation_gain": 57.0,
+    "id": "18124822570",
+    "moving_time": 3653.0,
+    "name": "Back sul Fugit",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T17:37:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
