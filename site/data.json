@@ -6398,6 +6398,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18124822570",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 10,
+      "name": "Aeolus god of wind part 2.",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18162941808",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11972,6 +11981,17 @@
       }
     },
     "2026": {
+      "Ride": {
+        "2026-04-18": {
+          "activity_ids": [
+            "18162941808"
+          ],
+          "count": 1,
+          "distance": 95468.4,
+          "elevation_gain": 454.0,
+          "moving_time": 10998.0
+        }
+      },
       "Run": {
         "2026-04-05": {
           "activity_ids": [
@@ -12409,7 +12429,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:37:25.192754+00:00",
+  "generated_at": "2026-04-19T15:37:33.352840+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

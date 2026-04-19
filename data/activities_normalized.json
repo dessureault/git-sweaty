@@ -9241,5 +9241,18 @@
     "start_date_local": "2026-04-15T17:37:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 95468.4,
+    "elevation_gain": 454.0,
+    "id": "18162941808",
+    "moving_time": 10998.0,
+    "name": "Aeolus god of wind part 2.",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T10:59:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
