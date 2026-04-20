@@ -9254,5 +9254,18 @@
     "start_date_local": "2026-04-18T10:59:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 20334.2,
+    "elevation_gain": 100.0,
+    "id": "18176604856",
+    "moving_time": 1955.0,
+    "name": "P'tit spin",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-19T14:28:23Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

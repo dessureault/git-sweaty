@@ -6407,6 +6407,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18162941808",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 14,
+      "name": "P'tit spin",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18176604856",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12367,6 +12376,15 @@
           "distance": 36675.1,
           "elevation_gain": 57.0,
           "moving_time": 3653.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18176604856"
+          ],
+          "count": 1,
+          "distance": 20334.2,
+          "elevation_gain": 100.0,
+          "moving_time": 1955.0
         }
       },
       "VirtualRun": {
@@ -12429,7 +12447,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:37:33.352840+00:00",
+  "generated_at": "2026-04-20T16:09:14.677003+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
