@@ -9280,5 +9280,18 @@
     "start_date_local": "2026-04-25T11:30:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 84220.3,
+    "elevation_gain": 149.0,
+    "id": "18269374700",
+    "moving_time": 8729.0,
+    "name": "On visite Sorel \ud83d\udd7a\ud83c\udffb",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T10:01:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
