@@ -9293,5 +9293,18 @@
     "start_date_local": "2026-04-26T10:01:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 5021.2,
+    "elevation_gain": 18.0,
+    "id": "18284933488",
+    "moving_time": 1628.0,
+    "name": "Journ\u00e9e de fou? Run avec le fou!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T18:22:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
