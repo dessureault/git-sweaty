@@ -6443,6 +6443,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18284933488",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 18,
+      "name": "Course \u00e0 pied en soir\u00e9e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18299365210",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12073,6 +12082,15 @@
           "distance": 5021.2,
           "elevation_gain": 18.0,
           "moving_time": 1628.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18299365210"
+          ],
+          "count": 1,
+          "distance": 10324.7,
+          "elevation_gain": 19.0,
+          "moving_time": 3586.0
         }
       },
       "TrailRun": {
@@ -12501,7 +12519,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:51:18.279960+00:00",
+  "generated_at": "2026-04-29T16:27:22.561306+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
