@@ -6452,6 +6452,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18299365210",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 9,
+      "name": "Aller prier avec Justin",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18350222377",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12044,6 +12053,15 @@
           "distance": 84220.3,
           "elevation_gain": 149.0,
           "moving_time": 8729.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18350222377"
+          ],
+          "count": 1,
+          "distance": 100108.0,
+          "elevation_gain": 543.0,
+          "moving_time": 11597.0
         }
       },
       "Run": {
@@ -12519,7 +12537,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:45:08.870518+00:00",
+  "generated_at": "2026-05-03T15:47:32.646994+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

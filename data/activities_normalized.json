@@ -9319,5 +9319,18 @@
     "start_date_local": "2026-04-28T18:34:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 100108.0,
+    "elevation_gain": 543.0,
+    "id": "18350222377",
+    "moving_time": 11597.0,
+    "name": "Aller prier avec Justin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T09:52:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
