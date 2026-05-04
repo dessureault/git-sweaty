@@ -9332,5 +9332,18 @@
     "start_date_local": "2026-05-02T09:52:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 78051.1,
+    "elevation_gain": 409.0,
+    "id": "18364873318",
+    "moving_time": 8668.0,
+    "name": "Le traditionnel 5 soeurs",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T12:33:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
