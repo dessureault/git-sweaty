@@ -6479,6 +6479,15 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/18376482098",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 13,
+      "name": "Des mimosas et des openers",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18443059628",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12089,6 +12098,15 @@
           "distance": 78051.1,
           "elevation_gain": 409.0,
           "moving_time": 8668.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18443059628"
+          ],
+          "count": 1,
+          "distance": 35724.1,
+          "elevation_gain": 68.0,
+          "moving_time": 4024.0
         }
       },
       "Run": {
@@ -12573,7 +12591,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:52:23.117326+00:00",
+  "generated_at": "2026-05-10T15:54:06.407573+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

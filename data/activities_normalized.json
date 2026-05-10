@@ -9358,5 +9358,18 @@
     "start_date_local": "2026-05-04T15:19:12Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 35724.1,
+    "elevation_gain": 68.0,
+    "id": "18443059628",
+    "moving_time": 4024.0,
+    "name": "Des mimosas et des openers",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T13:35:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
