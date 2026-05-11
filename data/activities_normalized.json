@@ -9371,5 +9371,18 @@
     "start_date_local": "2026-05-09T13:35:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 7018.2,
+    "elevation_gain": 41.0,
+    "id": "18455396395",
+    "moving_time": 2204.0,
+    "name": "Doing it for the nuts",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T12:13:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
