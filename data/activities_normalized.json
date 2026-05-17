@@ -9384,5 +9384,18 @@
     "start_date_local": "2026-05-10T12:13:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 116004.0,
+    "elevation_gain": 842.0,
+    "id": "18532744292",
+    "moving_time": 12174.0,
+    "name": "On DNF la coffee ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T08:41:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
