@@ -6506,6 +6506,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18532744292",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 13,
+      "name": "Une pour le mental",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18547279914",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12190,6 +12199,15 @@
           "distance": 7018.2,
           "elevation_gain": 41.0,
           "moving_time": 2204.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18547279914"
+          ],
+          "count": 1,
+          "distance": 9073.9,
+          "elevation_gain": 60.0,
+          "moving_time": 3046.0
         }
       },
       "TrailRun": {
@@ -12627,7 +12645,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T15:58:59.950872+00:00",
+  "generated_at": "2026-05-18T17:29:43.052696+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

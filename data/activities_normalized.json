@@ -9397,5 +9397,18 @@
     "start_date_local": "2026-05-16T08:41:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 9073.9,
+    "elevation_gain": 60.0,
+    "id": "18547279914",
+    "moving_time": 3046.0,
+    "name": "Une pour le mental",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T13:43:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
