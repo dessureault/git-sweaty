@@ -9423,5 +9423,18 @@
     "start_date_local": "2026-05-18T15:21:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 6115.1,
+    "elevation_gain": 12.0,
+    "id": "18574769044",
+    "moving_time": 1980.0,
+    "name": "Ptite avec le pote \u00c9mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T18:13:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
