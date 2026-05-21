@@ -6533,6 +6533,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18574769044",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 17,
+      "name": "3 \u00e9pais contre le vent a la recherche d\u2019un bloody \ud83c\udf79",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18589180060",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12161,6 +12170,15 @@
           "distance": 116004.0,
           "elevation_gain": 842.0,
           "moving_time": 12174.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18589180060"
+          ],
+          "count": 1,
+          "distance": 38785.2,
+          "elevation_gain": 127.0,
+          "moving_time": 4881.0
         }
       },
       "Run": {
@@ -12681,7 +12699,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:54:03.350169+00:00",
+  "generated_at": "2026-05-21T17:30:53.225608+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

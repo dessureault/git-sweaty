@@ -9436,5 +9436,18 @@
     "start_date_local": "2026-05-19T18:13:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 38785.2,
+    "elevation_gain": 127.0,
+    "id": "18589180060",
+    "moving_time": 4881.0,
+    "name": "3 \u00e9pais contre le vent a la recherche d\u2019un bloody \ud83c\udf79",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T17:53:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
