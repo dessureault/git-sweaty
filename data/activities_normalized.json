@@ -9449,5 +9449,18 @@
     "start_date_local": "2026-05-20T17:53:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 104640.0,
+    "elevation_gain": 1565.1,
+    "id": "18626022156",
+    "moving_time": 13024.0,
+    "name": "Un parc solo c\u2019est th\u00e9rapeutique",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T11:04:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

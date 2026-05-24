@@ -6542,6 +6542,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18589180060",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 11,
+      "name": "Un parc solo c\u2019est th\u00e9rapeutique",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18626022156",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12179,6 +12188,15 @@
           "distance": 38785.2,
           "elevation_gain": 127.0,
           "moving_time": 4881.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18626022156"
+          ],
+          "count": 1,
+          "distance": 104640.0,
+          "elevation_gain": 1565.1,
+          "moving_time": 13024.0
         }
       },
       "Run": {
@@ -12699,7 +12717,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T16:01:36.439444+00:00",
+  "generated_at": "2026-05-24T16:00:58.414173+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
