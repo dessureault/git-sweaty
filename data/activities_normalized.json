@@ -9488,5 +9488,18 @@
     "start_date_local": "2026-05-25T06:50:23Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 125008.0,
+    "elevation_gain": 2444.0,
+    "id": "18719215153",
+    "moving_time": 16120.0,
+    "name": "Door to door no jehovah",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T09:18:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

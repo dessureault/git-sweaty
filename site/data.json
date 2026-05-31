@@ -6569,6 +6569,15 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/18646370048",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 9,
+      "name": "Door to door no jehovah",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18719215153",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12215,6 +12224,15 @@
           "distance": 104640.0,
           "elevation_gain": 1565.1,
           "moving_time": 13024.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18719215153"
+          ],
+          "count": 1,
+          "distance": 125008.0,
+          "elevation_gain": 2444.0,
+          "moving_time": 16120.0
         }
       },
       "Run": {
@@ -12753,7 +12771,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T16:04:33.034176+00:00",
+  "generated_at": "2026-05-31T16:07:46.342573+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
