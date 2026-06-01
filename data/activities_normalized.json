@@ -9501,5 +9501,44 @@
     "start_date_local": "2026-05-30T09:18:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 858.6,
+    "elevation_gain": 7.0,
+    "id": "18732298227",
+    "moving_time": 270.0,
+    "name": "On va la finir sur le tapis",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T12:51:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 6241.6,
+    "elevation_gain": 0.0,
+    "id": "18732786239",
+    "moving_time": 2066.0,
+    "name": "Zwift - Classique in London",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-05-31T13:03:33Z",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 7018.0,
+    "elevation_gain": 0.0,
+    "id": "18740342581",
+    "moving_time": 2349.0,
+    "name": "Zwift - Duchy Estate in Yorkshire",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-06-01T06:43:12Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]

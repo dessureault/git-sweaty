@@ -6578,6 +6578,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18719215153",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 12,
+      "name": "On va la finir sur le tapis",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18732298227",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 13,
+      "name": "Zwift - Classique in London",
+      "subtype": "VirtualRun",
+      "type": "VirtualRun",
+      "url": "https://www.strava.com/activities/18732786239",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 6,
+      "name": "Zwift - Duchy Estate in Yorkshire",
+      "subtype": "VirtualRun",
+      "type": "VirtualRun",
+      "url": "https://www.strava.com/activities/18740342581",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12325,6 +12352,15 @@
           "distance": 5013.3,
           "elevation_gain": 22.0,
           "moving_time": 1670.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18732298227"
+          ],
+          "count": 1,
+          "distance": 858.6,
+          "elevation_gain": 7.0,
+          "moving_time": 270.0
         }
       },
       "TrailRun": {
@@ -12756,6 +12792,24 @@
           "distance": 7027.4,
           "elevation_gain": 0.0,
           "moving_time": 2325.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18732786239"
+          ],
+          "count": 1,
+          "distance": 6241.6,
+          "elevation_gain": 0.0,
+          "moving_time": 2066.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18740342581"
+          ],
+          "count": 1,
+          "distance": 7018.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2349.0
         }
       },
       "WeightTraining": {
@@ -12771,7 +12825,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:07:46.342573+00:00",
+  "generated_at": "2026-06-01T19:55:07.137335+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
