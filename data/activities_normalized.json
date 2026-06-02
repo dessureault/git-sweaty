@@ -9540,5 +9540,18 @@
     "start_date_local": "2026-06-01T06:43:12Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 37525.4,
+    "elevation_gain": 59.0,
+    "id": "18755288843",
+    "moving_time": 3460.0,
+    "name": "Peux pas croire que j\u2019ai zwift\u00e9",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-02T07:50:10Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
