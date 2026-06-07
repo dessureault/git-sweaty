@@ -9566,5 +9566,18 @@
     "start_date_local": "2026-06-02T17:59:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 8026.5,
+    "elevation_gain": 0.0,
+    "id": "18814566839",
+    "moving_time": 2720.0,
+    "name": "Zwift - Fine and Sandy in Makuri Islands",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-06-06T14:25:40Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
