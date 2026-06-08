@@ -9579,5 +9579,18 @@
     "start_date_local": "2026-06-06T14:25:40Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 113324.0,
+    "elevation_gain": 726.5,
+    "id": "18829737947",
+    "moving_time": 12252.0,
+    "name": "Croissant et tite cannette",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T10:52:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
