@@ -9592,5 +9592,18 @@
     "start_date_local": "2026-06-07T10:52:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 42923.8,
+    "elevation_gain": 348.0,
+    "id": "18858442925",
+    "moving_time": 5598.0,
+    "name": "Tacos avec une odeur de paparmane",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-09T18:06:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
