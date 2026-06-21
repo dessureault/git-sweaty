@@ -9644,5 +9644,31 @@
     "start_date_local": "2026-06-17T11:29:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 57715.8,
+    "elevation_gain": 198.0,
+    "id": "19001109639",
+    "moving_time": 6054.0,
+    "name": "Jasette avec le Jey \ud83d\udd7a\ud83c\udffb",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T13:10:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 80014.9,
+    "elevation_gain": 372.0,
+    "id": "19012070137",
+    "moving_time": 8288.0,
+    "name": "Solo Tabasco \ud83c\udf36\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T08:20:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
