@@ -9683,5 +9683,31 @@
     "start_date_local": "2026-06-23T18:13:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 105202.0,
+    "elevation_gain": 1570.7,
+    "id": "19102032505",
+    "moving_time": 13605.0,
+    "name": "A feux doux pour mijoter la grippe \ud83c\udf5c",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T09:29:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 5009.5,
+    "elevation_gain": 18.0,
+    "id": "19110944615",
+    "moving_time": 1568.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-29T09:49:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
