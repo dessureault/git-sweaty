@@ -9709,5 +9709,31 @@
     "start_date_local": "2026-06-29T09:49:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 18993.1,
+    "elevation_gain": 34.0,
+    "id": "19179315484",
+    "moving_time": 2135.0,
+    "name": "Nope",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-04T12:17:32Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 93286.0,
+    "elevation_gain": 641.2,
+    "id": "19191000759",
+    "moving_time": 11149.0,
+    "name": "Early bird gets la slush bleu \ud83e\udd64",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-05T07:35:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
