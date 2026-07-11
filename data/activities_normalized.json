@@ -9774,5 +9774,18 @@
     "start_date_local": "2026-07-08T06:13:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 109011.0,
+    "elevation_gain": 1534.7,
+    "id": "19262456551",
+    "moving_time": 12863.0,
+    "name": "Un parc en bonne compagnie",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-10T17:04:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

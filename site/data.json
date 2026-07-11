@@ -6767,6 +6767,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19226839746",
       "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 17,
+      "name": "Un parc en bonne compagnie",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19262456551",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12522,6 +12531,15 @@
           "distance": 55745.9,
           "elevation_gain": 555.0,
           "moving_time": 5970.0
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            "19262456551"
+          ],
+          "count": 1,
+          "distance": 109011.0,
+          "elevation_gain": 1534.7,
+          "moving_time": 12863.0
         }
       },
       "Run": {
@@ -13141,7 +13159,7 @@
       }
     }
   },
-  "generated_at": "2026-07-10T16:55:59.310256+00:00",
+  "generated_at": "2026-07-11T15:55:29.591191+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
