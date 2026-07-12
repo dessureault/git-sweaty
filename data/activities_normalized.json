@@ -9787,5 +9787,18 @@
     "start_date_local": "2026-07-10T17:04:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 9010.6,
+    "elevation_gain": 54.0,
+    "id": "19273874399",
+    "moving_time": 3001.0,
+    "name": "Coffee stop avec le chum \u00c9mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-11T15:12:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
