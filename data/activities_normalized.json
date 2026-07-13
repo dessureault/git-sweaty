@@ -9800,5 +9800,18 @@
     "start_date_local": "2026-07-11T15:12:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 84828.8,
+    "elevation_gain": 395.0,
+    "id": "19284535792",
+    "moving_time": 9751.0,
+    "name": "5soeurs avec la troupe",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-12T08:13:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
