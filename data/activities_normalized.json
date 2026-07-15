@@ -9813,5 +9813,18 @@
     "start_date_local": "2026-07-12T08:13:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 9008.6,
+    "elevation_gain": 12.0,
+    "id": "19316197980",
+    "moving_time": 3046.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T18:37:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
