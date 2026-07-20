@@ -9839,5 +9839,31 @@
     "start_date_local": "2026-07-15T18:09:29Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 3017.0,
+    "elevation_gain": 33.0,
+    "id": "19379695458",
+    "moving_time": 1296.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T12:34:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 7407.8,
+    "elevation_gain": 41.0,
+    "id": "19380297003",
+    "moving_time": 2406.0,
+    "name": "Z2+strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T12:58:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
