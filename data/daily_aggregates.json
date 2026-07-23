@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:19:23.817668+00:00",
+  "generated_at": "2026-07-23T16:25:30.541743+00:00",
   "years": {
     "2023": {
       "Hike": {
@@ -5780,6 +5780,15 @@
           "distance": 37926.3,
           "elevation_gain": 127.0,
           "moving_time": 4636.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19434044344"
+          ],
+          "count": 1,
+          "distance": 81965.0,
+          "elevation_gain": 389.0,
+          "moving_time": 8902.0
         }
       },
       "Run": {
@@ -6329,6 +6338,15 @@
           "distance": 37525.4,
           "elevation_gain": 59.0,
           "moving_time": 3460.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19421690658"
+          ],
+          "count": 1,
+          "distance": 42181.7,
+          "elevation_gain": 65.0,
+          "moving_time": 3956.0
         }
       },
       "VirtualRun": {
