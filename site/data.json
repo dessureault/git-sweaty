@@ -6852,7 +6852,7 @@
     {
       "date": "2026-07-23",
       "hour": 8,
-      "name": "Morning Ride",
+      "name": "Temp\u00e9rature de cul",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19434044344",
@@ -12646,7 +12646,7 @@
           ],
           "count": 1,
           "distance": 81965.0,
-          "elevation_gain": 389.0,
+          "elevation_gain": 404.6,
           "moving_time": 8902.0
         }
       },
@@ -13313,7 +13313,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T16:25:30.555458+00:00",
+  "generated_at": "2026-07-24T16:40:44.786875+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
