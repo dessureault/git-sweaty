@@ -9904,5 +9904,18 @@
     "start_date_local": "2026-07-23T08:15:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 10137.2,
+    "elevation_gain": 0.0,
+    "id": "19504553435",
+    "moving_time": 3465.0,
+    "name": "Zwift - Ven-10 Run in France",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-07-28T13:48:22Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
