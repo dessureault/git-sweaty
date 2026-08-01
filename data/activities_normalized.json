@@ -9917,5 +9917,18 @@
     "start_date_local": "2026-07-28T13:48:22Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 10716.7,
+    "elevation_gain": 0.0,
+    "id": "19550029971",
+    "moving_time": 3351.0,
+    "name": "Dodo \ud83e\udda4",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-07-31T22:26:26Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]

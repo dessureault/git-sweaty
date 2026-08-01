@@ -6866,6 +6866,15 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/19504553435",
       "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 22,
+      "name": "Dodo \ud83e\udda4",
+      "subtype": "VirtualRun",
+      "type": "VirtualRun",
+      "url": "https://www.strava.com/activities/19550029971",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13316,6 +13325,15 @@
           "distance": 10137.2,
           "elevation_gain": 0.0,
           "moving_time": 3465.0
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "19550029971"
+          ],
+          "count": 1,
+          "distance": 10716.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3351.0
         }
       },
       "WeightTraining": {
@@ -13331,7 +13349,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T16:45:05.475553+00:00",
+  "generated_at": "2026-08-01T15:59:53.981797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
