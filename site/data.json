@@ -6875,6 +6875,15 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/19550029971",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 11,
+      "name": "Zwift - 5K Loop in Watopia",
+      "subtype": "VirtualRun",
+      "type": "VirtualRun",
+      "url": "https://www.strava.com/activities/19754908780",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13334,6 +13343,15 @@
           "distance": 10716.7,
           "elevation_gain": 0.0,
           "moving_time": 3351.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19754908780"
+          ],
+          "count": 1,
+          "distance": 5061.3,
+          "elevation_gain": 0.0,
+          "moving_time": 1798.0
         }
       },
       "WeightTraining": {
@@ -13349,7 +13367,7 @@
       }
     }
   },
-  "generated_at": "2026-08-15T15:18:38.306391+00:00",
+  "generated_at": "2026-08-16T15:20:19.714830+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
