@@ -9943,5 +9943,18 @@
     "start_date_local": "2026-08-15T11:31:00Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 5683.2,
+    "elevation_gain": 28.0,
+    "id": "19840295892",
+    "moving_time": 1781.0,
+    "name": "Comeback difficile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-21T13:23:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
