@@ -9956,5 +9956,18 @@
     "start_date_local": "2026-08-21T13:23:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 3018.6,
+    "elevation_gain": 0.0,
+    "id": "19963863638",
+    "moving_time": 898.0,
+    "name": "Zwift - May Field in Watopia",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-08-30T09:40:26Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
