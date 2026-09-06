@@ -9969,5 +9969,18 @@
     "start_date_local": "2026-08-30T09:40:26Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 16646.2,
+    "elevation_gain": 31.0,
+    "id": "20064041750",
+    "moving_time": 1813.0,
+    "name": "L\u2019\u00e9pave sort de l\u2019eau \ud83d\udc0b",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T11:54:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
