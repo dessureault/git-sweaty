@@ -6929,6 +6929,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20095314176",
       "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 15,
+      "name": "Fugit, My old friend",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20175898410",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13314,6 +13323,15 @@
           "distance": 42181.7,
           "elevation_gain": 65.0,
           "moving_time": 3956.0
+        },
+        "2026-09-14": {
+          "activity_ids": [
+            "20175898410"
+          ],
+          "count": 1,
+          "distance": 37713.3,
+          "elevation_gain": 59.0,
+          "moving_time": 3655.0
         }
       },
       "VirtualRun": {
@@ -13457,7 +13475,7 @@
       }
     }
   },
-  "generated_at": "2026-09-14T19:44:11.763684+00:00",
+  "generated_at": "2026-09-15T18:43:28.320865+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

@@ -10008,5 +10008,18 @@
     "start_date_local": "2026-09-08T17:36:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 37713.3,
+    "elevation_gain": 59.0,
+    "id": "20175898410",
+    "moving_time": 3655.0,
+    "name": "Fugit, My old friend",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-14T15:12:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
