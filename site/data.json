@@ -6938,6 +6938,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20175898410",
       "year": 2026
+    },
+    {
+      "date": "2026-09-23",
+      "hour": 6,
+      "name": "Zwift - Volcano Circuit Run in Watopia",
+      "subtype": "VirtualRun",
+      "type": "VirtualRun",
+      "url": "https://www.strava.com/activities/20294132847",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13460,6 +13469,15 @@
           "distance": 3018.6,
           "elevation_gain": 0.0,
           "moving_time": 898.0
+        },
+        "2026-09-23": {
+          "activity_ids": [
+            "20294132847"
+          ],
+          "count": 1,
+          "distance": 5270.3,
+          "elevation_gain": 0.0,
+          "moving_time": 1804.0
         }
       },
       "WeightTraining": {
@@ -13475,7 +13493,7 @@
       }
     }
   },
-  "generated_at": "2026-09-22T18:30:33.390904+00:00",
+  "generated_at": "2026-09-23T18:52:24.011858+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
