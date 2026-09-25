@@ -10047,5 +10047,18 @@
     "start_date_local": "2026-09-24T07:08:03Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 7040.4,
+    "elevation_gain": 54.0,
+    "id": "20325891620",
+    "moving_time": 2210.0,
+    "name": "Une course a saveur de scotch et cigare \ud83d\ude35\u200d\ud83d\udcab",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-25T11:36:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
