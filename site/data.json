@@ -6965,6 +6965,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20325891620",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 17,
+      "name": "Zwift - TrainerRoad: Tallac -2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20370436812",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13377,6 +13386,15 @@
           "distance": 33423.1,
           "elevation_gain": 53.0,
           "moving_time": 3162.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20370436812"
+          ],
+          "count": 1,
+          "distance": 39027.8,
+          "elevation_gain": 59.0,
+          "moving_time": 3630.0
         }
       },
       "VirtualRun": {
@@ -13529,7 +13547,7 @@
       }
     }
   },
-  "generated_at": "2026-09-28T21:04:41.611441+00:00",
+  "generated_at": "2026-09-29T19:47:42.179793+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
