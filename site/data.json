@@ -6974,6 +6974,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20370436812",
       "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 6,
+      "name": "Zwift - TrainerRoad: Wright Peak -5",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20391737219",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13395,6 +13404,15 @@
           "distance": 39027.8,
           "elevation_gain": 59.0,
           "moving_time": 3630.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20391737219"
+          ],
+          "count": 1,
+          "distance": 44277.4,
+          "elevation_gain": 68.0,
+          "moving_time": 4238.0
         }
       },
       "VirtualRun": {
@@ -13547,7 +13565,7 @@
       }
     }
   },
-  "generated_at": "2026-09-29T19:47:42.179793+00:00",
+  "generated_at": "2026-09-30T19:51:24.460803+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
