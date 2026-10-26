@@ -6983,6 +6983,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20391737219",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 14,
+      "name": "A d\u00e9faut de biker je marche \ud83e\udd1d\ud83c\udffc",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20730780979",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13552,6 +13561,17 @@
           "moving_time": 1804.0
         }
       },
+      "Walk": {
+        "2026-10-25": {
+          "activity_ids": [
+            "20730780979"
+          ],
+          "count": 1,
+          "distance": 6006.3,
+          "elevation_gain": 59.0,
+          "moving_time": 4498.0
+        }
+      },
       "WeightTraining": {
         "2026-03-22": {
           "activity_ids": [
@@ -13565,7 +13585,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T18:09:18.836611+00:00",
+  "generated_at": "2026-10-26T20:18:43.779960+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
