@@ -6992,6 +6992,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20730780979",
       "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 9,
+      "name": "Ti coff \u2615\ufe0f",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20804709664",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13570,6 +13579,15 @@
           "distance": 6006.3,
           "elevation_gain": 59.0,
           "moving_time": 4498.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "20804709664"
+          ],
+          "count": 1,
+          "distance": 1819.0,
+          "elevation_gain": 18.0,
+          "moving_time": 1114.0
         }
       },
       "WeightTraining": {
@@ -13585,7 +13603,7 @@
       }
     }
   },
-  "generated_at": "2026-10-30T19:51:13.570600+00:00",
+  "generated_at": "2026-10-31T19:07:07.058242+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

@@ -10099,5 +10099,18 @@
     "start_date_local": "2026-10-25T14:57:41Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 1819.0,
+    "elevation_gain": 18.0,
+    "id": "20804709664",
+    "moving_time": 1114.0,
+    "name": "Ti coff \u2615\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-31T09:46:04Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
