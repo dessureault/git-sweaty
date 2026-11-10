@@ -10112,5 +10112,18 @@
     "start_date_local": "2026-10-31T09:46:04Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 35208.3,
+    "elevation_gain": 128.0,
+    "id": "20934454633",
+    "moving_time": 3645.0,
+    "name": "Un FTP de 18",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-10T09:27:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
