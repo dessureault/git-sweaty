@@ -10125,5 +10125,18 @@
     "start_date_local": "2026-11-10T09:27:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 22846.5,
+    "elevation_gain": 214.0,
+    "id": "20945491946",
+    "moving_time": 2748.0,
+    "name": "Bon Matin",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-11T06:04:22Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
