@@ -7019,6 +7019,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20945491946",
       "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 10,
+      "name": "Garbage inspector",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20973809938",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 12,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20974734328",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 14,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20976115784",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13029,6 +13056,15 @@
           "distance": 7040.4,
           "elevation_gain": 54.0,
           "moving_time": 2210.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20974734328"
+          ],
+          "count": 1,
+          "distance": 5352.2,
+          "elevation_gain": 50.0,
+          "moving_time": 1943.0
         }
       },
       "TrailRun": {
@@ -13624,6 +13660,16 @@
           "distance": 1819.0,
           "elevation_gain": 18.0,
           "moving_time": 1114.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20973809938",
+            "20976115784"
+          ],
+          "count": 2,
+          "distance": 7094.299999999999,
+          "elevation_gain": 71.0,
+          "moving_time": 5217.0
         }
       },
       "WeightTraining": {
@@ -13639,7 +13685,7 @@
       }
     }
   },
-  "generated_at": "2026-11-12T21:44:18.713001+00:00",
+  "generated_at": "2026-11-13T21:11:35.408971+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

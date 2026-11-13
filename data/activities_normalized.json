@@ -10138,5 +10138,44 @@
     "start_date_local": "2026-11-11T06:04:22Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 2343.4,
+    "elevation_gain": 27.0,
+    "id": "20973809938",
+    "moving_time": 1624.0,
+    "name": "Garbage inspector",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-13T10:39:43Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 5352.2,
+    "elevation_gain": 50.0,
+    "id": "20974734328",
+    "moving_time": 1943.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-13T12:16:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 4750.9,
+    "elevation_gain": 44.0,
+    "id": "20976115784",
+    "moving_time": 3593.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-13T14:30:33Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
