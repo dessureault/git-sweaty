@@ -7046,6 +7046,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20976115784",
       "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 13,
+      "name": "Au bon march\u00e9, OUI PAPA!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21001446402",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13065,6 +13074,15 @@
           "distance": 5352.2,
           "elevation_gain": 50.0,
           "moving_time": 1943.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "21001446402"
+          ],
+          "count": 1,
+          "distance": 5221.7,
+          "elevation_gain": 48.0,
+          "moving_time": 1812.0
         }
       },
       "TrailRun": {
@@ -13685,7 +13703,7 @@
       }
     }
   },
-  "generated_at": "2026-11-14T19:43:04.790669+00:00",
+  "generated_at": "2026-11-15T20:09:07.468715+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
