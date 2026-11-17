@@ -7064,6 +7064,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21014958156",
       "year": 2026
+    },
+    {
+      "date": "2026-11-17",
+      "hour": 16,
+      "name": "PoutPout",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21027483176",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13539,6 +13548,15 @@
           "distance": 35983.1,
           "elevation_gain": 55.0,
           "moving_time": 3627.0
+        },
+        "2026-11-17": {
+          "activity_ids": [
+            "21027483176"
+          ],
+          "count": 1,
+          "distance": 32160.5,
+          "elevation_gain": 304.0,
+          "moving_time": 3655.0
         }
       },
       "VirtualRun": {
@@ -13721,7 +13739,7 @@
       }
     }
   },
-  "generated_at": "2026-11-16T23:39:04.551011+00:00",
+  "generated_at": "2026-11-17T22:46:49.869491+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
