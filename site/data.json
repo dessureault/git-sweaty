@@ -7073,6 +7073,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21027483176",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21033545948",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13101,6 +13110,15 @@
           "distance": 5221.7,
           "elevation_gain": 48.0,
           "moving_time": 1812.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21033545948"
+          ],
+          "count": 1,
+          "distance": 5666.5,
+          "elevation_gain": 52.0,
+          "moving_time": 2066.0
         }
       },
       "TrailRun": {
@@ -13739,7 +13757,7 @@
       }
     }
   },
-  "generated_at": "2026-11-17T22:46:49.869491+00:00",
+  "generated_at": "2026-11-18T22:29:02.940450+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
