@@ -7082,6 +7082,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21033545948",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 6,
+      "name": "Intervals icu: Endurance 75 min",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21046295839",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13575,6 +13584,15 @@
           "distance": 32160.5,
           "elevation_gain": 304.0,
           "moving_time": 3655.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21046295839"
+          ],
+          "count": 1,
+          "distance": 44534.8,
+          "elevation_gain": 68.0,
+          "moving_time": 4524.0
         }
       },
       "VirtualRun": {
@@ -13757,7 +13775,7 @@
       }
     }
   },
-  "generated_at": "2026-11-18T22:29:02.940450+00:00",
+  "generated_at": "2026-11-19T22:34:23.238782+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",
