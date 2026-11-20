@@ -7091,6 +7091,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21046295839",
       "year": 2026
+    },
+    {
+      "date": "2026-11-20",
+      "hour": 12,
+      "name": "Fin Novembre right?",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21061583634",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13128,6 +13137,15 @@
           "distance": 5666.5,
           "elevation_gain": 52.0,
           "moving_time": 2066.0
+        },
+        "2026-11-20": {
+          "activity_ids": [
+            "21061583634"
+          ],
+          "count": 1,
+          "distance": 7008.5,
+          "elevation_gain": 20.0,
+          "moving_time": 2417.0
         }
       },
       "TrailRun": {
@@ -13775,7 +13793,7 @@
       }
     }
   },
-  "generated_at": "2026-11-19T22:34:23.238782+00:00",
+  "generated_at": "2026-11-20T22:07:24.781903+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

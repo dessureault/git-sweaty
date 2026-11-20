@@ -10242,5 +10242,18 @@
     "start_date_local": "2026-11-19T06:26:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 7008.5,
+    "elevation_gain": 20.0,
+    "id": "21061583634",
+    "moving_time": 2417.0,
+    "name": "Fin Novembre right?",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-20T12:34:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
