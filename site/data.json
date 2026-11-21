@@ -7100,6 +7100,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21061583634",
       "year": 2026
+    },
+    {
+      "date": "2026-11-21",
+      "hour": 11,
+      "name": "Se faire de la corne",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21074706452",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13611,6 +13620,15 @@
           "distance": 44534.8,
           "elevation_gain": 68.0,
           "moving_time": 4524.0
+        },
+        "2026-11-21": {
+          "activity_ids": [
+            "21074706452"
+          ],
+          "count": 1,
+          "distance": 73059.2,
+          "elevation_gain": 111.0,
+          "moving_time": 7250.0
         }
       },
       "VirtualRun": {
@@ -13793,7 +13811,7 @@
       }
     }
   },
-  "generated_at": "2026-11-20T22:07:24.781903+00:00",
+  "generated_at": "2026-11-21T20:46:27.587966+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/44645247",
   "repo": "dessureault/git-sweaty",

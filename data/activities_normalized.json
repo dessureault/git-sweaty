@@ -10255,5 +10255,18 @@
     "start_date_local": "2026-11-20T12:34:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 73059.2,
+    "elevation_gain": 111.0,
+    "id": "21074706452",
+    "moving_time": 7250.0,
+    "name": "Se faire de la corne",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-21T11:42:19Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
