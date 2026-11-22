@@ -10268,5 +10268,18 @@
     "start_date_local": "2026-11-21T11:42:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 2644.0,
+    "elevation_gain": 11.0,
+    "id": "21075692365",
+    "moving_time": 1912.0,
+    "name": "P\u2019tit caf\u00e9 \u00e0 la tourbi\u00e8re",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-21T15:02:01Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
